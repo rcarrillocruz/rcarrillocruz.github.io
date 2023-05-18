@@ -1,0 +1,18 @@
+baseURL = 'https://rcarrillocruz.io/'
+languageCode = 'en-us'
+title = "rcarrillocruz's Blog"
+theme = 'm10c'
+
+[params]
+  author = "Ricardo Carrillo Cruz"
+  description = "My personal blog about tech things"
+
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/ricardo-carrillo-cruz-6b78997"
+
+  [[params.social]]
+    icon = "github"
+    name = "My Github"
+    url = "https://github.com/rcarrillocruz"
